@@ -1,0 +1,7 @@
+K:\NIU\sem3\dotNet\Assign1\thakkar_Assign1\thakkar_Assign1\bin\Debug\thakkar_Assign1.exe.config
+K:\NIU\sem3\dotNet\Assign1\thakkar_Assign1\thakkar_Assign1\bin\Debug\thakkar_Assign1.exe
+K:\NIU\sem3\dotNet\Assign1\thakkar_Assign1\thakkar_Assign1\bin\Debug\thakkar_Assign1.pdb
+K:\NIU\sem3\dotNet\Assign1\thakkar_Assign1\thakkar_Assign1\obj\Debug\thakkar_Assign1.csprojResolveAssemblyReference.cache
+K:\NIU\sem3\dotNet\Assign1\thakkar_Assign1\thakkar_Assign1\obj\Debug\thakkar_Assign1.csproj.CoreCompileInputs.cache
+K:\NIU\sem3\dotNet\Assign1\thakkar_Assign1\thakkar_Assign1\obj\Debug\thakkar_Assign1.exe
+K:\NIU\sem3\dotNet\Assign1\thakkar_Assign1\thakkar_Assign1\obj\Debug\thakkar_Assign1.pdb
